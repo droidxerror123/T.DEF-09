@@ -91,4 +91,4 @@ curl -T /storage/emulated/0/$script $website
 echo  "\033[92;1m = $website/$script "
 echo """
 Terima Kasih Telah Menggunakan Tools Ini
-5Sampai Jumpa Dilain Waktu :)"""
+Sampai Jumpa Dilain Waktu :)"""
