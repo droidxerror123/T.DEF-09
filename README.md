@@ -13,8 +13,10 @@ $ git clone https://github.com/droidxerror123/T.DEF-09
 
 Cara menjalankan :
 
+cd T.DEF-09
 sh Def-09.sh
 
 Cara mengambil Web Vuln :
 
+cd T.DEF-09
 cat web.txt
