@@ -42,53 +42,53 @@ echo "\033[34;1m"
 read -p "website:"  website
 read -p "script: "  script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo ""
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script: "  script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo "\033[34;1m"
 read -p "website:"  website
 read -p "script:"   script
 curl -T /storage/emulated/0/$script $website
-echo  "\033[92;1m = $website/$script "
+echo  "\033[92;1m ~@ $website/$script "
 echo """
 Terima Kasih Telah Menggunakan Tools Ini
 Sampai Jumpa Dilain Waktu :)"""
